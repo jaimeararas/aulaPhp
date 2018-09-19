@@ -1,1 +1,5 @@
-ola mundo
+<?php
+  
+  echo "Olá Mundo, alterei o arquivo";
+
+?>
